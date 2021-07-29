@@ -1,4 +1,13 @@
 // const arr = [1, 2, 3, 4, 5, 4, 5, 5];
+/**
+ * when to use two for loops;
+ * when to use break;
+ * how to write no duplicate found in if condition
+ * scope
+ *
+ *
+ */
+
 function duplicateNum(arr) {
   let result;
   for (let i = 0; i < arr.length; i++) {
